@@ -20,7 +20,7 @@ Python 2.6 or 2.7.
 The following installation instructions assume that you are using the Python
 package manager. Pip can be installed with the following command:
 
-`sudo apt-get python-pip`
+`sudo apt-get install python-pip`
 
 ## Google APIs Client Library for Python ##
 
